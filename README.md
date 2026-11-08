@@ -17,8 +17,8 @@ pip install -e .
 
 Next, clone this repository:
 ```bash
-git clone https://github.com/<USERNAME>/FOCAL.git
-cd FOCAL
+git clone https://github.com/mahesh-keswani/FOCAL-Offline-SafeRL.git
+cd FOCAL-Offline-SafeRL
 ```
 
 ## Usage
